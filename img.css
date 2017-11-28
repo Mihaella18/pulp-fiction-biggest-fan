@@ -1,0 +1,80 @@
+html,body{
+	font-family: Gill Sans, sans-serif;
+	margin: 0;
+}
+
+
+header{
+	
+	background-color: #660000;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 150px;
+	width: 280px;
+	border: 10px solid; color: black;
+	
+}
+.content{
+	max-width: 900px;
+	margin:0 auto;
+	padding: 0, 280px;
+
+
+}
+
+img.image{
+	max width:100%;
+	border-style: solid; 
+
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	
+
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+
+	margin-top:20px;
+	padding: 40px 20px;
+	background-color: #E6E6E6
+	
+}
+
+ul{
+	text-align: center;
+}
+
+footer ul li{
+	display:inline-block;
+	margin: 5px;
+
+}
+/*<header>
+<a href="img/profile.jpg"><img src="img/profile.jpg" alt=""></a>
+	<h1>Instagram: mihaella18</h1>
+
+</header>*>
